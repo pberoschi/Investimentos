@@ -1,0 +1,2 @@
+lista = 'johnny'
+senha = '3456'
